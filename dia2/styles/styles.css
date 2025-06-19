@@ -1,0 +1,36 @@
+* {
+    background-image: url(../img/lluvia.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 25px;
+    color: red;
+}
+
+h3 {
+    font-size: 20px;
+    color: aqua;
+    text-shadow: 1px 1px 2px black;
+}
+
+h4 {
+    font-size: 15px;
+    color: lightgray;
+    text-shadow: 1px 1px 2px black;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
