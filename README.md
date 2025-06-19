@@ -1,5 +1,4 @@
-# Hola
+# bienvenido a mi readme de inicios HTML
 
-## bienvenido a mi readme
+## Hola aqui subire todos mis trabajos de HTML :happyface:
 
-[dia2](dia2/index.html)
