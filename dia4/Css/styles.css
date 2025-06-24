@@ -43,29 +43,6 @@
 
 }
 
-.cuadroazul {
-
-    top: 1106px;
-    left: 64px;
-    width: 1792px;
-    height: 567px;
-    background-color: #00A8E1;
-    border-radius: 108px;
-    position: absolute;
-}
-
-
-.cuadroazul2 {
-
-    top: 1717px;
-    left: 64px;
-    width: 1792px;
-    height: 724px;
-    background-color: #00A8E1;
-    border-radius: 108px;
-    position: absolute;
-}
-
 .login {
 
     top: 30px;
@@ -161,32 +138,54 @@
 
 }
 
+.cuadroazul {
+
+    top: 1106px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+    background-color: #00A8E1;
+    border-radius: 108px;
+    position: absolute;
+}
+
+
+.cuadroazul2 {
+
+    top: 1717px;
+    left: 64px;
+    width: 1792px;
+    height: 724px;
+    background-color: #00A8E1;
+    border-radius: 108px;
+    position: absolute;
+}
+
 
 .cuadroazultitulo {
 
-top: 1160px;
-left: 135px;
-width: 1664px;
-position: absolute;
-height: 65px;
-color: white;
-font-size: 60px;
-text-align: center;
-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    top: 1160px;
+    left: 135px;
+    width: 1664px;
+    position: absolute;
+    height: 65px;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 }
 
 .cuadroazulTV {
-  top: 1280px;
-  left: 682px;
-  width: 556px;
-  height: 150px;
-  background-image: url(./../imagenes/tv.webp);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  position: absolute;
-  
+    top: 1280px;
+    left: 682px;
+    width: 556px;
+    height: 150px;
+    background-image: url(./../imagenes/tv.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+
 
 }
-
