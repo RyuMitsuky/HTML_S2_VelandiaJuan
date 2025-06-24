@@ -33,22 +33,97 @@
 }
 
 .buscador {
-    
-    /* Layout Properties */
-top: 37px;
-left: 63px;
-width: 36px;
-height: 36px;
-/* UI Properties */
-background: transparent url('./../imagenes/buscador.svg') 0% 0% no-repeat padding-box;
-opacity: 1;
-position: absolute;
+    top: 37px;
+    left: 63px;
+    width: 36px;
+    height: 36px;
+    background: transparent url('./../imagenes/buscador.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+
+}
+
+.cuadroazul {
+
+    top: 1106px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+    background-color: #00A8E1;
+    border-radius: 108px;
+    position: absolute;
+}
+
+
+.cuadroazul2 {
+
+    top: 1717px;
+    left: 64px;
+    width: 1792px;
+    height: 724px;
+    background-color: #00A8E1;
+    border-radius: 108px;
+    position: absolute;
+}
+
+.login {
+
+    top: 30px;
+    left: 1695px;
+    width: 205px;
+    height: 54px;
+    background-color: white;
+    border-radius: 108px;
+    position: absolute;
+
+
+}
+
+.textlogin {
+
+    top: 48px;
+    left: 1773px;
+    width: 50px;
+    height: 20px;
+    opacity: 1;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    position: absolute;
+
+
+}
+
+.text1 {
+
+    top: 517px;
+    left: 389px;
+    width: 1151px;
+    height: 60px;
+    font-size: 55px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    color: #FFFFFF;
+    text-align: left;
 
 }
 
 
 
 
+.text2 {
 
-
-
+    top: 608px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 800px;
+    height: auto;
+    font-size: 22px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    position: absolute;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.8);
+    line-height: 1.4;
+}
