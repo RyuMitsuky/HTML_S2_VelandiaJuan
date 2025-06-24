@@ -333,5 +333,158 @@
     background-position: center;
     position: absolute;
 
+}
+
+.cuadroazuldescripcion3 {
+
+    top: 2881px;
+    left: 269px;
+    width: 1382px;
+    height: 88px;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    position: absolute;
+    color: var(--darkreader-text-ffffff8c, rgba(255, 255, 255, 0.55));
+
+}
+
+.compatibletitulo {
+
+    top: 3127px;
+    left: 181px;
+    width: 1544px;
+    height: 99px;
+    font-size: 125px;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    position: absolute;
+    color: #FFFFFF;
+
+}
+
+
+.compatibledescripcion {
+
+    top: 3296px;
+    left: 181px;
+    width: 1544px;
+    height: 99px;
+    height: 99px;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    position: absolute;
+    color: var(--darkreader-text-ffffff8c, rgba(255, 255, 255, 0.55));
+
+
+}
+
+.compatibleimagenes1 {
+
+    top: 3606px;
+    left: 386px;
+    width: 256px;
+    height: 219px;
+    background-image: url(./../imagenes/iphone.png);
+    position: absolute;
+
+
+}
+
+.compatibleimagenes2 {
+
+    top: 3440px;
+    left: 685px;
+    width: 584px;
+    height: 534px;
+    background-image: url(./../imagenes/mac.png);
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.compatibleimagenes3 {
+
+    top: 3587px;
+    left: 1261px;
+    width: 271px;
+    height: 238px;
+    background-image: url(./../imagenes/laptop.png);
+    position: absolute;
+
+}
+
+
+.privacidad {
+
+    top: 4088px;
+    left: 543px;
+    width: 831px;
+    height: 25px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+
+.terminos {
+
+
+    top: 4088px;
+    left: 750px;
+    width: 831px;
+    height: 25px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+
+.reembolsos {
+
+    top: 4088px;
+    left: 950px;
+    width: 831px;
+    height: 25px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+
+}
+
+.legal {
+
+
+    top: 4088px;
+    left: 1200px;
+    width: 831px;
+    height: 25px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+
+}
+
+
+.sitio {
+
+    top: 4088px;
+    left: 1310px;
+    width: 831px;
+    height: 25px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
 
 }
