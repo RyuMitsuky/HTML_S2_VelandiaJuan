@@ -161,6 +161,18 @@
     position: absolute;
 }
 
+.cuadroazul3 {
+
+    top: 2467px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+    background-color: #00A8E1;
+    border-radius: 108px;
+    position: absolute;
+
+}
+
 
 .cuadroazultitulo {
 
@@ -182,6 +194,140 @@
     width: 556px;
     height: 150px;
     background-image: url(./../imagenes/tv.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+
+
+}
+
+.cuadroazuldescripcion {
+
+    top: 1500px;
+    left: 135px;
+    width: 1664px;
+    position: absolute;
+    height: 65px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: var(--darkreader-text-ffffff8c, rgba(255, 255, 255, 0.55));
+
+
+
+}
+
+
+.cuadroazultitulo2 {
+
+
+    top: 1773px;
+    left: 135px;
+    width: 1664px;
+    height: 60px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    position: absolute;
+
+}
+
+
+
+.cuadroazuldescripcion2 {
+
+    top: 2286px;
+    left: 207px;
+    width: 1492px;
+    height: 110px;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    position: absolute;
+    color: var(--darkreader-text-ffffff8c, rgba(255, 255, 255, 0.55));
+
+}
+
+
+.serie1 {
+
+    top: 1896px;
+    left: 477px;
+    width: 181px;
+    height: 309px;
+    background-image: url(./../imagenes/serie1.png);
+    position: absolute;
+
+}
+
+.serie2 {
+
+    top: 1896px;
+    left: 670px;
+    width: 181px;
+    height: 309px;
+    background-image: url(./../imagenes/serie2.png);
+    position: absolute;
+
+}
+
+.serie3 {
+
+    top: 1896px;
+    left: 863px;
+    width: 180px;
+    height: 309px;
+    background-image: url(./../imagenes/serie3.png);
+    position: absolute;
+
+}
+
+.serie4 {
+
+    top: 1896px;
+    left: 1055px;
+    width: 181px;
+    height: 309px;
+    background-image: url(./../imagenes/serie4.png);
+    position: absolute;
+
+}
+
+.serie5 {
+
+    top: 1896px;
+    left: 1248px;
+    width: 181px;
+    height: 309px;
+    background-image: url(./../imagenes/serie5.png);
+    position: absolute;
+
+}
+
+.cuadroazultitulo3 {
+
+    top: 2546px;
+    left: 560px;
+    width: 800px;
+    height: 60px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    position: absolute;
+
+}
+
+.cuadroazulx {
+
+    top: 2650px;
+    left: 876px;
+    width: 169px;
+    height: 169px;
+    background-image: url(./../imagenes/x.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
