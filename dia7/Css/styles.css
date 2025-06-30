@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+    overflow-x: hidden;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+
+.logo {
+    top: 60px;
+    left: 400px;
+    font-size: 40px;
+    margin-top: 40px;
+    position: absolute;
+}
+
+
+.divopciones {
+
+    top: 60px;
+    left: 1300px;
+    font-size: 40px;
+    margin-top: 40px;
+    position: absolute;
+    display: flex;
+    gap: 30px;
+
+}
+
+.startyouday {
+    top: 340px;
+    left: 710px;
+    font-size: 80px;
+    position: absolute;
+}
+
+.whitourcoffee {
+    top: 1100px;
+    left: 710px;
+    font-size: 80px;
+    position: absolute;
+}
+
+.fondonegro {
+    position: absolute;
+    width: 1980px;
+    height: 1400px;
+    background-image: url("../imagenes/cafe_2000px_ancho.jpg");
+    background-size: cover;
+}
+
+
+
+.fondooscuro {
+
+
+
+    background-color: #0D0D0D;
+    position: absolute;
+
+
+
+}
+
+.cuadroboton {
+
+    top: 1400px;
+    left: 675px;
+    font-size: 80px;
+    position: absolute;
+    border-radius: 8px;
+    background-color: #C8914E;
+
+}
