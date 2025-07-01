@@ -70,7 +70,7 @@ body {
 .fondooscuroconcontenido {
 
     background-color: #0A0908;
-    min-height: 3500px;
+    min-height: 4000px;
 
 
 }
@@ -397,6 +397,9 @@ body {
 
 }
 
+
+.linea2 {}
+
 .cuadrofinal1 {
 
 
@@ -431,3 +434,78 @@ body {
     background-color: #C8914E;
     font-size: 30px;
 }
+
+
+.linea2 {
+
+    position: absolute;
+    top: 4500px;
+    left: 700px;
+    width: 650px;
+    height: 4px;
+    background-color: white;
+
+}
+
+.aboutus {
+
+    top: 4800px;
+    left: 110px;
+    position: absolute;
+    font-size: 60px;
+
+
+}
+
+.data1 {
+
+    top: 4900px;
+    left: 110px;
+    position: absolute;
+      font-size: 20px;
+}
+
+
+
+
+
+.contact {
+
+    top: 4800px;
+    left: 800px;
+    position: absolute;
+    font-size: 60px;
+
+
+
+}
+
+.data2 {
+
+    top: 4900px;
+    left: 850px;
+    position: absolute;
+    font-size: 20px;
+
+}
+
+.opening {
+
+    top: 4800px;
+    left: 1500px;
+    position: absolute;
+    font-size: 60px;
+
+}
+
+
+.data3 {
+
+    top: 4900px;
+    left: 1500px;
+    position: absolute;
+    font-size: 20px;
+
+}
+
+
