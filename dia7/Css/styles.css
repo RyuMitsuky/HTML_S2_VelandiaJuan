@@ -70,7 +70,7 @@ body {
 .fondooscuroconcontenido {
 
     background-color: #0A0908;
-    min-height: 3000px;
+    min-height: 3500px;
 
 
 }
@@ -201,3 +201,233 @@ body {
 
 }
 
+
+.cuadro1 {
+
+    position: absolute;
+    top: 3600px;
+    left: 260px;
+    width: 400px;
+    height: 700px;
+    background-color: #0A0908;
+    border: 3px solid #D9A05B;
+}
+
+.cuadro2 {
+
+    position: absolute;
+    top: 3600px;
+    left: 820px;
+    width: 400px;
+    height: 700px;
+    background-color: #0A0908;
+    border: 3px solid #D9A05B;
+
+}
+
+.cuadro3 {
+
+    position: absolute;
+    top: 3600px;
+    left: 1400px;
+    width: 400px;
+    height: 700px;
+    background-color: #0A0908;
+    border: 3px solid #D9A05B;
+
+}
+
+.foto1 {
+
+    top: 3510px;
+    left: 385px;
+    background-image: url(./../imagenes/4cafe.png);
+    background-size: cover;
+    width: 155px;
+    height: 155px;
+    position: absolute;
+    border-radius: 100%;
+    border: 3px solid #D9A05B;
+
+}
+
+.foto2 {
+
+    top: 3510px;
+    left: 950px;
+    background-image: url(./../imagenes/5cafe.png);
+    background-size: cover;
+    width: 156px;
+    height: 155px;
+    position: absolute;
+    border-radius: 100%;
+    border: 3px solid #D9A05B;
+
+
+}
+
+
+.foto3 {
+
+    top: 3510px;
+    left: 1515px;
+    background-image: url(./../imagenes/6cafe.png);
+    background-size: cover;
+    width: 176px;
+    height: 176px;
+    position: absolute;
+    border-radius: 100%;
+    border: 3px solid #D9A05B;
+
+}
+
+.mocha1 {
+
+    top: 120px;
+    left: 160px;
+    font-size: 25px;
+    position: absolute;
+}
+
+
+
+.mocha2 {
+
+    top: 120px;
+    left: 160px;
+    font-size: 25px;
+    position: absolute;
+}
+
+.mocha3 {
+
+    top: 120px;
+    left: 160px;
+    font-size: 25px;
+    position: absolute;
+
+}
+
+
+.expresso1 {
+
+
+    top: 350px;
+    left: 110px;
+    font-size: 25px;
+    position: absolute;
+
+
+}
+
+.expresso2 {
+
+    top: 350px;
+    left: 110px;
+    font-size: 25px;
+    position: absolute;
+    font-size: 30px;
+
+}
+
+.expresso3 {
+
+    top: 350px;
+    left: 110px;
+    font-size: 25px;
+    position: absolute;
+    font-size: 30px;
+
+
+}
+
+.chocolate1 {
+
+    top: 395px;
+    left: 110px;
+    font-size: 25px;
+    position: absolute;
+
+
+}
+
+.chocolate2 {
+
+    top: 395px;
+    left: 110px;
+    font-size: 25px;
+    position: absolute;
+
+
+}
+
+.chocolate3 {
+
+    top: 395px;
+    left: 110px;
+    font-size: 25px;
+    position: absolute;
+
+}
+
+.steamedmilk1 {
+
+    top: 435px;
+    left: 110px;
+    font-size: 25px;
+    position: absolute;
+
+}
+
+.steamedmilk2 {
+
+    top: 435px;
+    left: 110px;
+    font-size: 25px;
+    position: absolute;
+
+}
+
+.steamedmilk3 {
+
+    top: 435px;
+    left: 110px;
+    font-size: 25px;
+    position: absolute;
+
+}
+
+.cuadrofinal1 {
+
+
+    top: 560px;
+    left: 110px;
+    position: absolute;
+    border-radius: 8px;
+    background-color: #C8914E;
+    font-size: 30px;
+
+}
+
+.cuadrofinal2 {
+
+
+    top: 560px;
+    left: 110px;
+    position: absolute;
+    border-radius: 8px;
+    background-color: #C8914E;
+    font-size: 30px;
+
+}
+
+
+.cuadrofinal3 {
+
+    top: 560px;
+    left: 110px;
+    position: absolute;
+    border-radius: 8px;
+    background-color: #C8914E;
+    font-size: 30px;
+}
